@@ -27,7 +27,7 @@ Testing
 Deployment
 Maintenance
 
-Requirements phase has to do with gathering the required user information needed for the software. Design is about defining the software structure, interfaces, and data models. It mostly deal with developing the interface based on the requirement. Implementation is where code is written based on the design specifications. Testing involves systematically evaluating the software to identify defects. Deployment involves making the software available to users. Maintenance phase is where the software is updated to fix bugs, improve performance, or adapt to changing requirements.
+Requirements phase has to do with gathering the required user information for the software. Design is about defining the software structure, interfaces, and data models. It mostly deals with developing the interface based on the requirement. Implementation is where code is written based on the design specifications. Testing involves systematically evaluating the software to identify defects. Deployment involves making the software available to users. The maintenance phase is where the software is updated to fix bugs, improve performance, or adapt to changing requirements.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -77,6 +77,6 @@ Prompt engineering refers to the process of crafting structured instructions in 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt - Guide me through the process of cooking
-Concise prompt - I want you to assume that you are a professional chef, explain the step-by-step guide in preparing pizza with extra topping.
+Concise prompt - I want you to assume that you are a professional chef, and explain the step-by-step guide in preparing pizza with extra topping.
 
 The second prompt is more clear, specific and concise because I gave the type of dish I want to prepare with some extra information in other to give a direction of exactly what I want.
